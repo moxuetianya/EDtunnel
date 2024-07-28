@@ -11,6 +11,7 @@ const พร็อกซีไอพีs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn-
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
 // use single พร็อกซีไอพี instead of random
 // let พร็อกซีไอพี = 'cdn.xn--b6gac.eu.org';
+let พร็อกซีไอพี = '129.151.221.152';
 // ipv6 พร็อกซีไอพี example remove comment to use
 // let พร็อกซีไอพี = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
